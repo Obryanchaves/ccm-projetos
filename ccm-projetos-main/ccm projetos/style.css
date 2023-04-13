@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   background-color: rgba(105, 128, 230, 0.342);
+}
+
+header
+ { 
+    background-color:rgb(52, 79, 212);
+    font-size: smaller;
+    text-align: center;
+    color:rgb(0, 0, 0);
+ }
+ 
+ .cabeçalho-imagem {
+    image-orientation: flip;
+    width: 10%;
+    padding: 10px  10px;
+}
+.titulocabecalho {
+   font-size: 70px;
+}
+.cabeçalho {
+    display: flex;
+    justify-content: space-around;
+    padding: 24px  0;
+}
+ .lista-cabeçalho {
+    display:inline-table;
+    margin: 0  16px;
+    padding: 24px 0;
+    font-size: 16px;
+ }
+ .texto {
+    background-image: linear-gradient(#606163, #6d93e6b9);
+    padding: 15px  15px;
+    font-size: 20px;
+    text-align: justify;   
+ }
+ .titulo-texto {
+    color:rgb(202, 203, 212);
+    display: flex;
+    background: rgb(96, 107, 138);
+   justify-content: center;
+   
+ }
+  .escolaconteudo{
+   justify-content:space-around;
+   align-items: center;
+ }
+ .texto1 {
+    color:rgba(72, 117, 240, 0.644);
+    font-size: 12px;
+    width: 50%;
+     }
+ .texto2 {
+      color:rgba(72, 117, 240, 0.644);
+      font-size: 12px;
+      width: 30%;
+       }
+ .imagem-colegio{
+       width: 30%;
+ }
+ 
+ 
