@@ -64,5 +64,12 @@ header
  .imagem-colegio{
        width: 30%;
  }
+
+ .contato {
+ display: flex;
+    justify-content: space-around;
+    padding: 24px  0;
+ }
+
  
  
