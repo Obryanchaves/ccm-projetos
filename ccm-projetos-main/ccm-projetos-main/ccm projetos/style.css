@@ -52,24 +52,17 @@ header
    align-items: center;
  }
  .texto1 {
-    color:rgba(0, 0, 0, 0.644);
+    color:rgba(72, 117, 240, 0.644);
     font-size: 12px;
     width: 50%;
      }
  .texto2 {
-      color:rgba(0, 0, 0, 0.644);
+      color:rgba(72, 117, 240, 0.644);
       font-size: 12px;
       width: 30%;
        }
  .imagem-colegio{
        width: 30%;
  }
-
- .contato {
- display: flex;
-    justify-content: space-around;
-    padding: 24px  0;
- }
-
  
  

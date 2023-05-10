@@ -1,0 +1,50 @@
+.cabecalho {
+    
+background: rgba(56, 56, 201, 0.534);
+border: 1px solid;
+text-align: center;
+
+}
+.navegacao {
+
+    background: rgba(56, 56, 201, 0.534);
+    border: 1px solid;
+    text-align: center;
+
+}
+
+.artigo {
+
+    background: rgba(56, 56, 201, 0.534);
+    border: 1px solid;
+    text-align: center;
+    width: 50%;
+    height: 400px;
+    padding: 20px 50px;
+
+}
+
+.sessao {
+
+    background: rgba(56, 56, 201, 0.534);
+    border: 1px solid;
+    text-align: center;
+    width: 50%;
+    height: 300px;
+    padding: 10px 30px;
+
+}
+
+.aside {
+
+    background: rgba(56, 56, 201, 0.534);
+    border: 1px solid;
+    text-align: center;
+    height: 300px;
+    padding-left: 10px 30px;
+    width: 30%;
+    margin-left: 30%;
+    position: absolute;
+    bottom: 50px;
+
+}
